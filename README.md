@@ -95,7 +95,7 @@ Siga os passos abaixo para configurar e rodar a aplicação em seu ambiente loca
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/jwell-oliveira/cadastro-produtos.git
     cd seu-repositorio
     ```
 
@@ -153,4 +153,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Feito com ❤️ por [Jose Wellington](https://github.com/jwell-oliveira).
